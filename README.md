@@ -14,6 +14,9 @@ If showing "Window Protected Your PC" error
     Then Click "More Info"
     Then Click "Run Anyway" and used it
 
+![Screenshot 2025-01-07 140900](https://github.com/user-attachments/assets/9ea8f37a-7749-401b-b64f-9573f493b05e)
+![Screenshot 2025-01-07 140848](https://github.com/user-attachments/assets/9caaf947-a793-4567-9d70-1772bfb99b2f)
+
 ## Features
 
 ### Instant Execution
